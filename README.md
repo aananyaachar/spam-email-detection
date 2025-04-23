@@ -16,7 +16,7 @@ The dataset should be a CSV file with at least two columns:
 - `label`: The corresponding label (0 = Not Spam, 1 = Spam)
 
 
-## bash
+## Bash
 python spam_classifier.py
 
 
